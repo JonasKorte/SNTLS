@@ -1,0 +1,3 @@
+def parseManifest(data)
+    
+end

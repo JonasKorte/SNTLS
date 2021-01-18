@@ -1,5 +1,6 @@
 class Token
-    def initialize(type, value)
+    def initialize(id, type, value)
+        @id = id
         @type = type
         @value = value
 end

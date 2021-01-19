@@ -1,0 +1,14 @@
+sources = [
+  "HelloWorld.sntls"
+]
+modules = []
+
+source_path = "/sources"
+output_path = "/output"
+intermediate_directory = "/intermediate"
+output_type = executable
+output_platform = linux
+icon_path = None
+resource_path = None
+application_version = "v1.0.0"
+compiler_version = "v1.0.0"
